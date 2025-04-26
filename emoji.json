@@ -1,21 +1,11 @@
 [
   {
+    "lenwy": "001",
     "emoji": "🐮🍫",
     "jawaban": "Coklat Sapi"
   },
   {
-    "emoji": "🚗🍃",
-    "jawaban": "Mobil Listrik"
-  },
-  {
-    "emoji": "🔥🐍",
-    "jawaban": "Python"
-  },
-  {
-    "emoji": "📱💬",
-    "jawaban": "WhatsApp"
-  },
-  {
+    "lenwy": "002",
     "emoji": "🌙🛌",
     "jawaban": "Tidur Malam"
   }
